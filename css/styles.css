@@ -1,0 +1,70 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.important {
+  color: red;
+}
+
+.cakepic {
+  width: 140px;
+}
+
+.best {
+  color: purple;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.h1-lecture {
+  font-style: normal;
+  font size: 40px;
+}
+
+.h2-lecture {
+  font-style: italic;
+  color: blue;
+}
+
+p.intro {
+  font-variant: small-caps;
+}
+
+img.intro {
+  border-radius: 8px;
+  border: 6px;
+  border-color: rgb(0, 0, 0);
+}
+
+h1.intro {
+  color: green;
+  font-size: 30px;
+}
+
+h2.intro {
+  color: rgb(8, 114, 114);
+  font-size: 20px;
+}
+
+.unimportant {
+  color: brown;
+}
+
+.highlight {
+  background: yellow;
+}
+
+.fish-type {
+  background-color: orange;
+}
